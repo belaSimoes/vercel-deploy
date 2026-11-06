@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#dce6dc"/>
+<circle cx="920" cy="160" r="210" fill="#365b49" opacity=".10"/>
+<circle cx="180" cy="620" r="270" fill="#365b49" opacity=".08"/>
+<text x="600" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" fill="#365b49">Projeto do 1º semestre</text>
+<text x="600" y="410" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#365b49" opacity=".75">Substitua por sua foto</text>
+</svg>
